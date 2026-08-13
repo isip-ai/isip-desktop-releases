@@ -1,12 +1,12 @@
-version: 2.0.76
+version: 2.0.77
 files:
-  - url: https://github.com/isip-ai/isip-desktop-releases/releases/download/desktop-v2.0.76/ISIP-Desktop-2.0.76-mac-arm64.zip
-    sha512: mFYOEd4ygRqd0Uo4Gna3UBVILDNqoONvaKxKS/wyDx/q7awTmR47jcKaOWRva6sydMMJJhnL0R3rfEX6TcI9hw==
-    size: 361434809
-  - url: https://github.com/isip-ai/isip-desktop-releases/releases/download/desktop-v2.0.76/ISIP-Desktop-2.0.76-mac-arm64.dmg
-    sha512: JXNRFpo4nj9GONwo5O/nzYxMGNcGqwQfV97NA/MpvwoKUev0OmWoCPedCr39KkxsOHKSJEq6NiLMfEshzT5Wbw==
-    size: 354137796
-path: https://github.com/isip-ai/isip-desktop-releases/releases/download/desktop-v2.0.76/ISIP-Desktop-2.0.76-mac-arm64.zip
-sha512: mFYOEd4ygRqd0Uo4Gna3UBVILDNqoONvaKxKS/wyDx/q7awTmR47jcKaOWRva6sydMMJJhnL0R3rfEX6TcI9hw==
-releaseDate: 2026-08-13T19:58:33.648Z
+  - url: https://github.com/isip-ai/isip-desktop-releases/releases/download/desktop-v2.0.77/ISIP-Desktop-2.0.77-mac-arm64.zip
+    sha512: 1QG0sH6wECh5aYSoguizaVNb6WOx3C6so9md0QtAsXElye7QMQQ3rutOR87JYeN/o0s7uKfMhmpJtGvtEPE3QA==
+    size: 361437333
+  - url: https://github.com/isip-ai/isip-desktop-releases/releases/download/desktop-v2.0.77/ISIP-Desktop-2.0.77-mac-arm64.dmg
+    sha512: h8iABeex3vHniDBtNccAZDBKs6ev3GGMtJ9ZGh7urrt1FO0bjPvNhSZNW1s3Uh5qivrElnVm1Qz50ysR9Q0xVQ==
+    size: 354141915
+path: https://github.com/isip-ai/isip-desktop-releases/releases/download/desktop-v2.0.77/ISIP-Desktop-2.0.77-mac-arm64.zip
+sha512: 1QG0sH6wECh5aYSoguizaVNb6WOx3C6so9md0QtAsXElye7QMQQ3rutOR87JYeN/o0s7uKfMhmpJtGvtEPE3QA==
+releaseDate: 2026-08-13T21:49:14.751Z
 stagingPercentage: 100
