@@ -1,9 +1,9 @@
-version: 2.0.71
+version: 2.0.75
 files:
-  - url: https://github.com/isip-ai/isip-desktop-releases/releases/download/desktop-v2.0.71/ISIP-Desktop-2.0.71-win-x64.exe
-    sha512: EQuAKmLYhRWmF3uwiVGhLWWkSrgNmz5P26BLIdfNmTLJbT1uVXOOOAWw5B65+uP3puQDuo5qVOYAoWArkUwAmw==
-    size: 403466566
-path: https://github.com/isip-ai/isip-desktop-releases/releases/download/desktop-v2.0.71/ISIP-Desktop-2.0.71-win-x64.exe
-sha512: EQuAKmLYhRWmF3uwiVGhLWWkSrgNmz5P26BLIdfNmTLJbT1uVXOOOAWw5B65+uP3puQDuo5qVOYAoWArkUwAmw==
-releaseDate: 2026-08-12T19:35:17.957Z
+  - url: https://github.com/isip-ai/isip-desktop-releases/releases/download/desktop-v2.0.75/ISIP-Desktop-2.0.75-win-x64.exe
+    sha512: 9ErCoUmIMsDSIyoU8XA9H6pNEfxHd/A0ZhCRU4Vxi4xMqq3A36Momtfmh1jSL1ADkdY1tI1uO1pWTAfirVZfWQ==
+    size: 412750676
+path: https://github.com/isip-ai/isip-desktop-releases/releases/download/desktop-v2.0.75/ISIP-Desktop-2.0.75-win-x64.exe
+sha512: 9ErCoUmIMsDSIyoU8XA9H6pNEfxHd/A0ZhCRU4Vxi4xMqq3A36Momtfmh1jSL1ADkdY1tI1uO1pWTAfirVZfWQ==
+releaseDate: 2026-08-13T19:31:27.029Z
 stagingPercentage: 100
