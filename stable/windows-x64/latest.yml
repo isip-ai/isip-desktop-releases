@@ -1,9 +1,9 @@
-version: 2.2.10
+version: 2.2.12
 files:
-  - url: https://github.com/isip-ai/isip-desktop-releases/releases/download/desktop-v2.2.10/ISIP-Desktop-2.2.10-win-x64.exe
-    sha512: FNUriVDunm6l63s9xwX5XChMJOxQ32JFinbZZFWYzwIIygqGtH92akoGKHfvyg1+3C8JsfWX3BdZD3LrlxKMEw==
-    size: 426757951
-path: https://github.com/isip-ai/isip-desktop-releases/releases/download/desktop-v2.2.10/ISIP-Desktop-2.2.10-win-x64.exe
-sha512: FNUriVDunm6l63s9xwX5XChMJOxQ32JFinbZZFWYzwIIygqGtH92akoGKHfvyg1+3C8JsfWX3BdZD3LrlxKMEw==
-releaseDate: 2026-08-25T23:10:47.166Z
+  - url: https://github.com/isip-ai/isip-desktop-releases/releases/download/desktop-v2.2.12/ISIP-Desktop-2.2.12-win-x64.exe
+    sha512: cnXACq1rJTbSMK5REcxALzTkZAyYDXoNThFK9JebhPrI3cno9ldMAaM4EqxIwi1wsUA6nclGw7hZxsK3BrMR7A==
+    size: 426773775
+path: https://github.com/isip-ai/isip-desktop-releases/releases/download/desktop-v2.2.12/ISIP-Desktop-2.2.12-win-x64.exe
+sha512: cnXACq1rJTbSMK5REcxALzTkZAyYDXoNThFK9JebhPrI3cno9ldMAaM4EqxIwi1wsUA6nclGw7hZxsK3BrMR7A==
+releaseDate: 2026-08-26T14:23:21.344Z
 stagingPercentage: 100
